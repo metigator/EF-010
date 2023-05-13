@@ -10,7 +10,7 @@ Use MetigatorAcademy;
 ##### + Courses  :book:
 <div style="padding: 10px; font-size: 10px; font-weight: bold">
 
-| Id | Course Name    | Pricw |
+| Id | Course Name    | Price |
 |----|----------------|------|
 | 1  | Mathematics    |$1000.00|
 | 2  | Physics        |$2000.00|
