@@ -195,7 +195,7 @@ CREATE TABLE SectionSchedules (
     INSERT INTO SectionSchedules (Id, SectionId, ScheduleId, StartTime, EndTime) VALUES (9, 9, 4, '16:00:00', '18:00:00');
     INSERT INTO SectionSchedules (Id, SectionId, ScheduleId, StartTime, EndTime) VALUES (10, 10, 3, '12:00:00', '15:00:00');
     INSERT INTO SectionSchedules (Id, SectionId, ScheduleId, StartTime, EndTime) VALUES (11, 11, 5, '09:00:00', '11:00:00');
-
+```
 
 #### + Student Enrollment :man: :girl:
 
