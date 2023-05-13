@@ -30,11 +30,11 @@ CREATE TABLE Courses (
 );
 
     -- Inserting data for Courses
-    INSERT INTO Courses (Id, CourseName) VALUES (1, 'Mathematics', 1000.00);
-    INSERT INTO Courses (Id, CourseName) VALUES (2, 'Physics', 2000.00);
-    INSERT INTO Courses (Id, CourseName) VALUES (3, 'Chemistry', 1500.00);
-    INSERT INTO Courses (Id, CourseName) VALUES (4, 'Biology', 1200.00);
-    INSERT INTO Courses (Id, CourseName) VALUES (5, 'Computer Science', 3000.00);
+    INSERT INTO Courses (Id, CourseName, Price) VALUES (1, 'Mathematics', 1000.00);
+    INSERT INTO Courses (Id, CourseName, Price) VALUES (2, 'Physics', 2000.00);
+    INSERT INTO Courses (Id, CourseName, Price) VALUES (3, 'Chemistry', 1500.00);
+    INSERT INTO Courses (Id, CourseName, Price) VALUES (4, 'Biology', 1200.00);
+    INSERT INTO Courses (Id, CourseName, Price) VALUES (5, 'Computer Science', 3000.00);
 
 ```
 
